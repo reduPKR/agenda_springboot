@@ -16,6 +16,11 @@ A estrutura básica do projeto:
     - `repository`: Contém a interface `UsuarioRepository`, que define as operações de acesso a dados para a entidade `Usuario`.
     - `service`: Contém a classe `UsuarioService`, responsável por implementar a lógica de negócio relacionada aos usuários.
 
+## testes  
+98% dos metodos testados e 99% das linhas 
+
+  ![image](https://github.com/reduPKR/agenda_springboot/assets/56879793/3fb5d360-d2a5-4218-8043-1ac368d43266)  
+
 ## Pré-requisitos
 
 Para executar este projeto, você precisa ter instalado:
